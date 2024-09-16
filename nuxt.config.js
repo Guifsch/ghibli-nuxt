@@ -38,7 +38,7 @@ export default {
   ],
 
   axios: {
-    baseURL: 'https://ghibliapi.herokuapp.com', // Used as fallback if no runtime config is provided
+    baseURL: 'https://ghibliapi.vercel.app', // Used as fallback if no runtime config is provided
   },
 
   publicRuntimeConfig: {
